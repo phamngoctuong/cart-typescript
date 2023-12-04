@@ -1,0 +1,9 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const DELETE_CART = "DELETE_CART";
+export const UPDATE_CART = "UPDATE_CART";
+export const MESSAGE_SUCCESS = "Thông báo thành công!";
+export const MESSAGE_ERROR = "Thông báo hết!";
+export const MESSAGE_DELETE = "Xóa thành công!";
+export const MESSAGE_EMPTY = "Vẫn còn trống!";
+export const MESSAGE_UPDATE = "Update thành công!";
+export const MESSAGE_OUT_STOCK = "Đã hết!";
